@@ -1,6 +1,6 @@
 # Hello, my name is Obede!
 ---
-Currently a Senior FullStack Developer. I started my studies at age X and fell in love with programming, since then I've been improving my JavaScript language, the Back and Front-end and databases. I love being challenged by the new and I work really well under pressure.
+Currently a Senior FullStack Developer. I started my studies at age 14 and fell in love with programming, since then I've been improving my JavaScript language, the Back and Front-end and databases. I love being challenged by the new and I work really well under pressure.
 ### About Me
 ---
 - 🔭  I'm working as a senior FullStack developer.
