@@ -32,6 +32,9 @@ Hi, I'm Obede Doreto, a passionate fullstack developer.I started my studies at a
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> ](https://www.instagram.com/obededoreto/?utm_medium=copy_link)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/obede-doreto-bb9553207/)
 
+<br />
+<br />
+
 ### 🤜🤛 Group [🔝](#welcome-badges-4-readmemd-profile)
 ---
 
