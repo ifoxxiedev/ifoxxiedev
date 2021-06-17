@@ -18,6 +18,9 @@ Hi, I'm Obede Doreto, a passionate fullstack developer.I started my studies at a
 <code><img height="20" src="https://raw.githubusercontent.com/ifoxxiedev/ifoxxiedev/master/assets/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/ifoxxiedev/ifoxxiedev/master/assets/graphql.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/ifoxxiedev/ifoxxiedev/master/assets/spring-boot-project-logo.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/ifoxxiedev/ifoxxiedev/master/assets/docker.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/ifoxxiedev/ifoxxiedev/master/assets/kubernetes.png"></code> 
+
 
 ### Find me at 📫
 ---
