@@ -10,7 +10,6 @@ Hi, I'm Obede Doreto, a passionate fullstack developer.I started my studies at a
 - 🔭  I'm working as a Senior FullStack Developer.
 - 🌱  I am currently working and learning much mor about these tecnologies: Node.JS, Java, JavaScript, React, React Native and Vue.JS.
 - 👯  I'm looking to collaborate on JavaScript projects.
-- ⚡   Technologies: Node.JS, Database - MySQL, PostgreSQL, Firebase, MongDB, Redis and COuchDB - React, React Native, Vue.JS.
 
 ### Languagens and Tools
 <code><img height="20" src="https://raw.githubusercontent.com/ifoxxiedev/ifoxxiedev/master/assets/javascript.png"></code>
@@ -29,8 +28,8 @@ Hi, I'm Obede Doreto, a passionate fullstack developer.I started my studies at a
 ### 📱 Contact [🔝](#welcome-badges-4-readmemd-profile)
 ---
 
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> ](https://www.instagram.com/obededoreto/?utm_medium=copy_link)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/obede-doreto-bb9553207/)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> ](https://www.instagram.com/obededoreto/?utm_medium=copy_link)
 
 <br />
 <br />
