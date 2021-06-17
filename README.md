@@ -1,12 +1,24 @@
-# Hello, my name is Obede!
+# Hello everyone, I'm Obede!
 ---
-Currently a Senior FullStack Developer. I started my studies at age 14 and fell in love with programming, since then I've been improving my JavaScript language, the Back and Front-end and databases. I love being challenged by the new and I work really well under pressure.
+
+Hi, I'm Obede Doreto, a passionate fullstack developer.I started my studies at age 14 and fell in love with programming, since then I've been improving my JavaScript language, the Back and Front-end and databases. I love being challenged by the new and I work really well under pressure.
+
 ### About Me
 ---
-- 🔭  I'm working as a senior FullStack developer.
-- 🌱  I am currently learning Node.JS, Java, JavaScript, React, React Native and Vue.JS.
+- 🔭  I'm working as a Senior FullStack Developer.
+- 🌱  I am currently working and learning much mor about these tecnologies: Node.JS, Java, JavaScript, React, React Native and Vue.JS.
 - 👯  I'm looking to collaborate on JavaScript projects.
-- ⚡   Technologies: Node.JS, Jatabase - MySQL, PostgreSQL, Firebase, MongDB, Redis and COuchDB - React, React Native, Vue.JS.
+- ⚡   Technologies: Node.JS, Database - MySQL, PostgreSQL, Firebase, MongDB, Redis and COuchDB - React, React Native, Vue.JS.
+
+### Languagens and Tools
+<code><img height="20" src="https://raw.githubusercontent.com/ifoxxiedev/ifoxxiedev/master/assets/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/ifoxxiedev/ifoxxiedev/master/assets/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/ifoxxiedev/ifoxxiedev/master/assets/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/ifoxxiedev/ifoxxiedev/master/assets/vuejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/ifoxxiedev/ifoxxiedev/master/assets/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/ifoxxiedev/ifoxxiedev/master/assets/graphql.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/ifoxxiedev/ifoxxiedev/master/assets/spring-boot-project-logo.png"></code> 
+
 ### Find me at 📫
 ---
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/obede-doreto-bb9553207/)](https://www.linkedin.com/in/obede-doreto-bb9553207/)
