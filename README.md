@@ -3,6 +3,8 @@
 
 Hi, I'm Obede Doreto, a passionate fullstack developer.I started my studies at age 14 and fell in love with programming, since then I've been improving my JavaScript language, the Back and Front-end and databases. I love being challenged by the new and I work really well under pressure.
 
+<br />
+
 ### About Me
 ---
 - 🔭  I'm working as a Senior FullStack Developer.
@@ -21,7 +23,16 @@ Hi, I'm Obede Doreto, a passionate fullstack developer.I started my studies at a
 <code><img height="20" src="https://raw.githubusercontent.com/ifoxxiedev/ifoxxiedev/master/assets/docker.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/ifoxxiedev/ifoxxiedev/master/assets/kubernetes.png"></code> 
 
+<br />
+<br />
 
-### Find me at 📫
+### 📱 Contact [🔝](#welcome-badges-4-readmemd-profile)
 ---
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/obede-doreto-bb9553207/)](https://www.linkedin.com/in/obede-doreto-bb9553207/)
+
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> ](https://www.instagram.com/obededoreto/?utm_medium=copy_link)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/obede-doreto-bb9553207/)
+
+### 🤜🤛 Group [🔝](#welcome-badges-4-readmemd-profile)
+---
+
+[<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/UhYJdUsj)
