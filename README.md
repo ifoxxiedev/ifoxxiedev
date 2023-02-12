@@ -8,8 +8,6 @@ Hi, My name is Obede Doreto, welcome to my github profile and u get below some i
 I'm passionate fullstack developer.I started my studies at 14 years old and fell in love with programming, since then I've been improving my JavaScript language, the Back and Front-end and databases. I love being challenged by the new and I work really well under pressure.
 </p>
 
-<br />
-
 <div style="display:flex;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ifoxxiedev&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Ifoxxiedev github stats" />
