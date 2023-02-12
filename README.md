@@ -18,11 +18,7 @@ I'm passionate fullstack developer.I started my studies at 14 years old and fell
   </a>
 </div>
 
-<br />
-
 ---
-
-<br />
 
 ### About Me
 
