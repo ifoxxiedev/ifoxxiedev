@@ -54,3 +54,5 @@ Hi, My name is Obede Doreto, welcome to my github profile and u get below some i
 ---
 
 [<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/UhYJdUsj) -->
+
+[!Snake Animation]( https://github.com/ifoxxiedev/ifoxxiedev/blob/snake/github-contribution-grid-snake.svg)
