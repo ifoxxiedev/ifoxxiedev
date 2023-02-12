@@ -1,6 +1,12 @@
 # Hey whats up everyone, I hope u are well!
 
-Hi, My name is Obede Doreto, welcome to my github profile and u get below some informations about me, for example, tools, experiencies, contributions, where am i? and where am i wish going?. ok, so, i'm passionate fullstack developer.I started my studies at 14 years old and fell in love with programming, since then I've been improving my JavaScript language, the Back and Front-end and databases. I love being challenged by the new and I work really well under pressure.
+<p>
+Hi, My name is Obede Doreto, welcome to my github profile and u get below some informations about me, for example, tools, experiencies, contributions, where am i? and where am i wish going?.
+</p>
+
+<p>
+I'm passionate fullstack developer.I started my studies at 14 years old and fell in love with programming, since then I've been improving my JavaScript language, the Back and Front-end and databases. I love being challenged by the new and I work really well under pressure.
+</p>
 
 <br />
 
