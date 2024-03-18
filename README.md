@@ -1,4 +1,6 @@
-# Hey whats up everyone, I hope u are well!
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=26e09c&s">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=31&pause=1000&color=26e09c,&center=true&vCenter=true&random=false&width=600&lines=Hey%20whats%20up%20everyone)](https://git.io/typing-svg)
 
 <p>
 Hi, My name is Obede Doreto, welcome to my github profile and u get below some informations about me, for example, tools, experiencies, contributions, where am i? and where am i wish going?.
@@ -8,17 +10,28 @@ Hi, My name is Obede Doreto, welcome to my github profile and u get below some i
 I'm passionate fullstack developer.I started my studies at 14 years old and fell in love with programming, since then I've been improving my JavaScript language, the Back and Front-end and databases. I love being challenged by the new and I work really well under pressure.
 </p>
 
+<hr />
+
+<br />
+<br />
+
 <div style="display:flex;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ifoxxiedev&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Ifoxxiedev github stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifoxxiedev&layout=compact&theme=material-palenight" />
-  </a>
+  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=ifoxxiedev&title_color=66E4F2&bg_color=020C0D&text_color=52D9D9&border_color=26e09c"/>
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifoxxiedev&layout=compact&title_color=66E4F2&bg_color=020C0D&text_color=26e09c&border_color=26e09c"/>
+</div>
+<br />
+
+<div style="display:flex">
+  <img height="390px" src="https://github-readme-activity-graph.vercel.app/graph?username=ifoxxiedev&bg_color=020c0d&color=26e09c&line=26e09c&point=66e4f2&area=true&hide_border=true">
 </div>
 
----
+<br />
+<br />
+
+<h3>Some achievements that I won during my journey</h3>
+<hr />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ifoxxiedev&theme=nord&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### About Me
 
@@ -29,16 +42,16 @@ I'm passionate fullstack developer.I started my studies at 14 years old and fell
 
 <br />
 
-### Languagens and Tools
-<code><img height="20" src="https://raw.githubusercontent.com/ifoxxiedev/ifoxxiedev/master/assets/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/ifoxxiedev/ifoxxiedev/master/assets/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/ifoxxiedev/ifoxxiedev/master/assets/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/ifoxxiedev/ifoxxiedev/master/assets/golang.png"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/ifoxxiedev/ifoxxiedev/master/assets/graphql.png"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/ifoxxiedev/ifoxxiedev/master/assets/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/ifoxxiedev/ifoxxiedev/master/assets/vuejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/ifoxxiedev/ifoxxiedev/master/assets/docker.png"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/ifoxxiedev/ifoxxiedev/master/assets/kubernetes.png"></code> 
+### Some technologies that I have working
+<code><img height="30" src="https://raw.githubusercontent.com/ifoxxiedev/ifoxxiedev/master/assets/typescript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/ifoxxiedev/ifoxxiedev/master/assets/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/ifoxxiedev/ifoxxiedev/master/assets/nodejs.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/ifoxxiedev/ifoxxiedev/master/assets/golang.png"></code> 
+<code><img height="30" src="https://raw.githubusercontent.com/ifoxxiedev/ifoxxiedev/master/assets/graphql.png"></code> 
+<code><img height="30" src="https://raw.githubusercontent.com/ifoxxiedev/ifoxxiedev/master/assets/react.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/ifoxxiedev/ifoxxiedev/master/assets/vuejs.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/ifoxxiedev/ifoxxiedev/master/assets/docker.png"></code> 
+<code><img height="30" src="https://raw.githubusercontent.com/ifoxxiedev/ifoxxiedev/master/assets/kubernetes.png"></code> 
 
 <br />
 
@@ -50,9 +63,6 @@ I'm passionate fullstack developer.I started my studies at 14 years old and fell
 
 <br />
 
-<!-- ### 🤜🤛 Group [🔝](#welcome-badges-4-readmemd-profile)
----
-
-[<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/UhYJdUsj) -->
+![Visitor Count](https://profile-counter.glitch.me/ifoxxiedev/count.svg)   
 
 ![Snake Animation](https://github.com/ifoxxiedev/ifoxxiedev/blob/snake/github-contribution-grid-snake.svg)
