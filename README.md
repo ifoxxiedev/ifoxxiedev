@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=31&pause=1000&color=26e09c,&center=true&vCenter=true&random=false&width=600&lines=Hey%20whats%20up%20everyone)](https://git.io/typing-svg)
 
 <p>
-Hi, My name is Obede Doreto, welcome to my github profile and u get below some informations about me, for example, tools, experiencies, contributions, where am i? and where am i wish going?.
+Hi, My name is Obede Doreto, welcome to my github profile and u get below some informations about me, for example, tools, experiencies, contributions, where am I? and where am i wish going?.
 </p>
 
 <p>
